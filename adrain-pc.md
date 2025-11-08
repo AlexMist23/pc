@@ -1,13 +1,14 @@
 # Kosztorys:
 
-## 6000 zł *(5,830 zł)*:
+## 6000 zł *(6,196 zł)*:
 
 ### **Karta Graficzna**:
 
  - **1900 zł** - *RTX 5060 **Ti** 16GB* : https://allegro.pl/oferta/msi-geforce-rtx-5060-ti-16gb-ddr7-128bit-ventus-2x-oc-plus-17546772908
 
 ### **Procesor** 
-- **1823 zł** - Intel i9-14900K 24 x 3,2 GHz gen. 14  : https://allegro.pl/events/clicks?emission_unit_id=75328686-1c11-415a-aea1-486b6a10ec5a&emission_id=8a391ee4-9fc7-4395-a224-f42ac0efa893&type=OFFER&ts=1762623240221&redirect=https%3A%2F%2Fallegro.pl%2Foferta%2Fprocesor-intel-core-i9-14900k-24-x-3-20-ghz-36-mb-box-16054786372%3Fbi_s%3Dads%26bi_m%3Dproductlisting%253Adesktop%253Acategory%26bi_c%3DY2VmYzZlZGQtMDBkOS00OGM3LWE3ZWMtMmY2ZDJhYmRhYWQ0AA%26bi_t%3Dape&placement=productlisting:desktop:category&sig=7af1009d345c9ee24bf356ee7ca3dc1c
+
+- **1389 zł** - Procesor Intel Core i7-14700KF 20 rdzeni 3.4 GHz -  : https://allegro.pl/oferta/procesor-intel-core-i7-14700kf-17215525667
 
 ### **Płyta Główna**
 - **907 zł** - Płyta główna ATX MSI Z790 TOMAHAWK WIFI LGA1700  : https://allegro.pl/oferta/plyta-glowna-atx-msi-z790-tomahawk-wifi-lga1700-17523355586
@@ -15,31 +16,63 @@
 ### **Pamięć RAM** -
 - **1200 zł** -  **64GB (2x 32GB)** - Pamięć RAM DDR5 GOODRAM IRDM 2x32GB KIT 6400MHz CL32 DIMM  : https://allegro.pl/oferta/pamiec-ram-goodram-irdm-ddr5-64gb-6400mhz-17434785828
 
-## 7000 zł *(5,830 zł)*:
+### **Zasilacz**:
+
+- **800zł** - **1000W** - Zasilacz Corsair RM1000x 1000W 80 Plus Gold ATX 3.1 -  https://allegro.pl/oferta/zasilacz-corsair-rm1000x-1000w-cybenetics-gold-atx-3-1-pcie-5-1-modularny-17500273357
+
+
+
+
+
+
+
+
+
+## 7000 zł *(6630 zł)*:
 
  - **1900 zł** - *RTX 5060 **Ti** 16GB* : https://allegro.pl/oferta/msi-geforce-rtx-5060-ti-16gb-ddr7-128bit-ventus-2x-oc-plus-17546772908
 
 ### **Procesor** 
 - **1823 zł** - Intel i9-14900K 24 x 3,2 GHz gen. 14  : https://allegro.pl/events/clicks?emission_unit_id=75328686-1c11-415a-aea1-486b6a10ec5a&emission_id=8a391ee4-9fc7-4395-a224-f42ac0efa893&type=OFFER&ts=1762623240221&redirect=https%3A%2F%2Fallegro.pl%2Foferta%2Fprocesor-intel-core-i9-14900k-24-x-3-20-ghz-36-mb-box-16054786372%3Fbi_s%3Dads%26bi_m%3Dproductlisting%253Adesktop%253Acategory%26bi_c%3DY2VmYzZlZGQtMDBkOS00OGM3LWE3ZWMtMmY2ZDJhYmRhYWQ0AA%26bi_t%3Dape&placement=productlisting:desktop:category&sig=7af1009d345c9ee24bf356ee7ca3dc1c
 
+
 ### **Płyta Główna**
 - **907 zł** - Płyta główna ATX MSI Z790 TOMAHAWK WIFI LGA1700  : https://allegro.pl/oferta/plyta-glowna-atx-msi-z790-tomahawk-wifi-lga1700-17523355586
 
 ### **Pamięć RAM** -
 - **1200 zł** -  **64GB (2x 32GB)** - Pamięć RAM DDR5 GOODRAM IRDM 2x32GB KIT 6400MHz CL32 DIMM  : https://allegro.pl/oferta/pamiec-ram-goodram-irdm-ddr5-64gb-6400mhz-17434785828
 
-## 8000 zł *(5,830 zł)*:
+### **Zasilacz**:
+
+- **800zł** - **1000W** - Zasilacz Corsair RM1000x 1000W 80 Plus Gold ATX 3.1 -  https://allegro.pl/oferta/zasilacz-corsair-rm1000x-1000w-cybenetics-gold-atx-3-1-pcie-5-1-modularny-17500273357
+
+
+
+
+
+
+
+
+
+
+## 8000 zł *(6630 zł)*:
 
  - **1900 zł** - *RTX 5060 **Ti** 16GB* : https://allegro.pl/oferta/msi-geforce-rtx-5060-ti-16gb-ddr7-128bit-ventus-2x-oc-plus-17546772908
 
 ### **Procesor** 
 - **1823 zł** - Intel i9-14900K 24 x 3,2 GHz gen. 14  : https://allegro.pl/events/clicks?emission_unit_id=75328686-1c11-415a-aea1-486b6a10ec5a&emission_id=8a391ee4-9fc7-4395-a224-f42ac0efa893&type=OFFER&ts=1762623240221&redirect=https%3A%2F%2Fallegro.pl%2Foferta%2Fprocesor-intel-core-i9-14900k-24-x-3-20-ghz-36-mb-box-16054786372%3Fbi_s%3Dads%26bi_m%3Dproductlisting%253Adesktop%253Acategory%26bi_c%3DY2VmYzZlZGQtMDBkOS00OGM3LWE3ZWMtMmY2ZDJhYmRhYWQ0AA%26bi_t%3Dape&placement=productlisting:desktop:category&sig=7af1009d345c9ee24bf356ee7ca3dc1c
 
+
 ### **Płyta Główna**
 - **907 zł** - Płyta główna ATX MSI Z790 TOMAHAWK WIFI LGA1700  : https://allegro.pl/oferta/plyta-glowna-atx-msi-z790-tomahawk-wifi-lga1700-17523355586
 
 ### **Pamięć RAM** -
 - **1200 zł** -  **64GB (2x 32GB)** - Pamięć RAM DDR5 GOODRAM IRDM 2x32GB KIT 6400MHz CL32 DIMM  : https://allegro.pl/oferta/pamiec-ram-goodram-irdm-ddr5-64gb-6400mhz-17434785828
+
+### **Zasilacz**:
+
+- **800zł** - **1000W** - Zasilacz Corsair RM1000x 1000W 80 Plus Gold ATX 3.1 -  https://allegro.pl/oferta/zasilacz-corsair-rm1000x-1000w-cybenetics-gold-atx-3-1-pcie-5-1-modularny-17500273357
+
 
 ---
 ---
@@ -84,9 +117,14 @@
 
 - Procesor Intel i9-14900K 24 x 3,2 GHz gen. 14 - **1823 zł** : https://allegro.pl/events/clicks?emission_unit_id=75328686-1c11-415a-aea1-486b6a10ec5a&emission_id=8a391ee4-9fc7-4395-a224-f42ac0efa893&type=OFFER&ts=1762623240221&redirect=https%3A%2F%2Fallegro.pl%2Foferta%2Fprocesor-intel-core-i9-14900k-24-x-3-20-ghz-36-mb-box-16054786372%3Fbi_s%3Dads%26bi_m%3Dproductlisting%253Adesktop%253Acategory%26bi_c%3DY2VmYzZlZGQtMDBkOS00OGM3LWE3ZWMtMmY2ZDJhYmRhYWQ0AA%26bi_t%3Dape&placement=productlisting:desktop:category&sig=7af1009d345c9ee24bf356ee7ca3dc1c
 
-## Pamięć RAM:
+## Pamięci RAM:
 
 - **32GB (2x 16GB)** - Pamięć RAM GoodRam IRDM DDR5 32GB (2 x 16GB) 6000 CL30 Czarny - **900 zł** : https://allegro.pl/events/clicks?emission_unit_id=86715ad0-d287-426b-ab20-35315e6d2946&emission_id=b1fc73fc-35bd-4ba6-9364-7c09da06036a&type=OFFER&ts=1762624258490&redirect=https%3A%2F%2Fallegro.pl%2Foferta%2Fpamiec-goodram-irdm-ddr5-32-gb-6000mhz-cl30-ir6000d564l30s-32gdc-15042360563%3Fbi_s%3Dads%26bi_m%3Dproductlisting%253Adesktop%253Acategory%26bi_c%3DMmM5MzcyMDEtY2IyZC00ZjIyLTljZjQtNjIyNWY4MjkyMGU4AA%26bi_t%3Dape&placement=productlisting:desktop:category&sig=3135e31c0ad1232be3e292fe7415a438
 
 
 - **64GB (2x 32GB)** - Pamięć RAM DDR5 GOODRAM IRDM 2x32GB KIT 6400MHz CL32 DIMM - **1200 zł** : https://allegro.pl/oferta/pamiec-ram-goodram-irdm-ddr5-64gb-6400mhz-17434785828
+
+
+## Zasilacze:
+
+- **1000W** - Zasilacz Corsair RM1000x 1000W 80 Plus Gold ATX 3.1 -  https://allegro.pl/oferta/zasilacz-corsair-rm1000x-1000w-cybenetics-gold-atx-3-1-pcie-5-1-modularny-17500273357
